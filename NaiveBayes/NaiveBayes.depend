@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478297467 source:d:\master\dm\hw1\naivebayes\naivebayes.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
